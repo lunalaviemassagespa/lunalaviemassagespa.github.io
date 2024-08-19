@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as l,a2 as d}from"./chunks/framework.CEgrwLex.js";const E=JSON.parse('{"title":"Acupuncture","description":"","frontmatter":{},"headers":[],"relativePath":"services.md","filePath":"services.md"}'),i={name:"services.md"},s=d("",7),r=[s];function g(a,n,x,y,h,A){return l(),e("div",null,r)}const S=t(i,[["render",g]]);export{E as __pageData,S as default};
