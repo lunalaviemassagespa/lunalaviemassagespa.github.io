@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as l,a2 as d}from "./chunks/framework.CEgrwLex.js";const c=JSON.parse('{"title":"Massage","description":"","frontmatter":{},"headers":[],"relativePath":"services.md","filePath":"services.md"}'),s={name:"services.md"},i=d("",2),a=[i];function r(g, n, x, y, h, A){return l(),e("div",null,a)}const o=t(s,[["render",r]]);export{c as __pageData,o as default};
